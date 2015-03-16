@@ -1,12 +1,11 @@
-//
+﻿//
 // AssemblyInfo.cs
 //
 // Author:
-//   Andreas Nahr (ClassDevelopment@A-SoftTech.com)
+//   Philip Garrett (philgarr@gmail.com)
 //
-// (C) 2003 Ximian, Inc.  http://www.ximian.com
+// (C) 2015 Philip Garrett.
 //
-
 //
 // Permission is hereby granted, free of charge, to any person obtaining
 // a copy of this software and associated documentation files (the
@@ -38,9 +37,9 @@ using System.Runtime.InteropServices;
 
 // General Information about the System.Messaging assembly
 
-[assembly: AssemblyTitle ("Mono.Messaging.dll")]
-[assembly: AssemblyDescription ("Mono.Messaging.dll")]
-[assembly: AssemblyDefaultAlias ("Mono.Messaging.dll")]
+[assembly: AssemblyTitle ("Mono.Messaging_test_net_4_5.dll")]
+[assembly: AssemblyDescription ("Mono.Messaging_test_net_4_5.dll")]
+[assembly: AssemblyDefaultAlias ("Mono.Messaging_test_net_4_5.dll")]
 
 [assembly: AssemblyCompany (Consts.MonoCompany)]
 [assembly: AssemblyProduct (Consts.MonoProduct)]
@@ -59,4 +58,3 @@ using System.Runtime.InteropServices;
 
 [assembly: AssemblyFileVersion (Consts.FxFileVersion)]
 [assembly: CompilationRelaxations (CompilationRelaxations.NoStringInterning)]
-[assembly: InternalsVisibleTo ("Mono.Messaging_test_net_4_5, PublicKey=0024000004800000940000000602000000240000525341310004000001000100b5fc90e7027f67871e773a8fde8938c81dd402ba65b9201d60593e96c492651e889cc13f1415ebb53fac1131ae0bd333c5ee6021672d9718ea31a8aebd0da0072f25d87dba6fc90ffd598ed4da35e44c398c454307e8e33b8426143daec9f596836f97c8f74750e5975c64e2189f45def46b2a2b1247adc3652bf5c308055da9")]
